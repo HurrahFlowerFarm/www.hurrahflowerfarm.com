@@ -168,7 +168,7 @@
         $(document).ready(function() {
             $.getJSON("/portfolio.json", function( data ) {
                 var parent = $("#portfolio > div > div");
-                $.each( data, function( key, val ) {
+                $.each( data.reverse(), function( key, val ) {
                     console.log(key, val);
                     if (val.enabled) {
                         parent.append(`<div class="col-lg-4 col-sm-6">
