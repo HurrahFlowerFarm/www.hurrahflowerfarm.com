@@ -157,6 +157,10 @@
         </div>
     </section>
 
+    <footer class="page-footer font-small">
+        <div class="footer-copyright text-center py-3">&copy; Copyright Hurrah Flower Farm LLC</div>
+    </footer>
+
     <script src="/js/jquery.min.js"></script>
     <script src="/js/bootstrap.bundle.min.js"></script>
     <script src="/js/jquery-easing.min.js"></script>
@@ -184,6 +188,8 @@
                 });
                 $('.portfolio-box').magnificPopup({ type: 'image' });
             });
+
+            $(".current-year").text((new Date()).getFullYear());
         });
     </script>
 </body>
