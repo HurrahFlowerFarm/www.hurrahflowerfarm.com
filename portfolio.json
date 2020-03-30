@@ -1,6 +1,6 @@
 [
     { "enabled": true, "src": "1.jpg", "headline": "Rolling Sod", "caption": "We've laid out and started removing sod for two 70' x 100' fields.  So excited to break ground!" },
-    { "enabled": true, "src": "2.jpg", "headline": "Amending the Soil", "caption": "Amending and tilling the soil in the new flower fields." },
+    { "enabled": false, "src": "2.jpg", "headline": "Amending the Soil", "caption": "Amending and tilling the soil in the new flower fields." },
     { "enabled": true, "src": "3.jpg", "headline": "Penny in the Field", "caption": "Penny Lane is out in the field helping us on the new farm.  I love her.  She never leaves my side." },
     { "enabled": true, "src": "4.jpg", "headline": "Amending the Soil", "caption": "Amending and tilling the soil in the new flower fields." },
     { "enabled": true, "src": "5.jpg", "headline": "Tilling the Field", "caption": "Our first attempt at tilling the fields.  Would've been easier with air in both tires." },
@@ -8,5 +8,9 @@
     { "enabled": true, "src": "7.jpg", "headline": "What to Plant When", "caption": "Deciding what to plant when is the hardest job ever.  I'd really rather be digging in the field." },
     { "enabled": true, "src": "8.jpg", "headline": "Preparing the Soil", "caption": "Trying out a few different soils to start seeds.  We'll see which sprout first." },
     { "enabled": true, "src": "9.jpg", "headline": "Our First Seeds", "caption": "Sowing our first seeds in the basements.  Hoping for the best." },
-    { "enabled": false, "src": "10.jpg", "headline": "First Photo Shoot", "caption": "We don't even have flowers yet so we had to purchase flowers for our first photo shoot." }
+    { "enabled": false, "src": "10.jpg", "headline": "First Photo Shoot", "caption": "We don't even have flowers yet so we had to purchase flowers for our first photo shoot." },
+    { "enabled": true, "src": "11.jpg", "headline": "Dahlia Tubers Arrived", "caption": "Our first order of Dahlia tubers arrived in the mail from Sunny Meadows.  Time to pack them for storage.  Can't wait to get them in the ground." },
+    { "enabled": true, "src": "12.jpg", "headline": "Sweet Pea Sprouts", "caption": "The Sweet Pea's have sprouted and they're ready for pinching." },
+    { "enabled": true, "src": "13.jpg", "headline": "Preparing the Landscape Fabric", "caption": "Rolling out and burning nearly 1000 feet of landscape fabric with 9 inch spacing.  Unfortunately, it was raining today so we had to do it in the barn." },
+    { "enabled": true, "src": "14.jpg", "headline": "Spring Chicks Have Arrived", "caption": "Nine new chicks came from Meyer Hatchery: 2 Black Split to Lavender Orpinton, 2 Cream Legbar, 2 Lavendar Orpington, 2 Swedish Flower Hen, and 1 mystery chicken." }
 ]
