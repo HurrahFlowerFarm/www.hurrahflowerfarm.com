@@ -1,6 +1,6 @@
 [
     { "enabled": true, "src": "1.jpg", "headline": "Rolling Sod", "caption": "We've laid out and started removing sod for two 70' x 100' fields.  So excited to break ground!" },
-    { "enabled": false, "src": "2.jpg", "headline": "Amending the Soil", "caption": "Amending and tilling the soil in the new flower fields." },
+    { "enabled": true, "src": "2.jpg", "headline": "Amending the Soil", "caption": "Amending and tilling the soil in the new flower fields." },
     { "enabled": true, "src": "3.jpg", "headline": "Penny in the Field", "caption": "Penny Lane is out in the field helping us on the new farm.  I love her.  She never leaves my side." },
     { "enabled": true, "src": "4.jpg", "headline": "Amending the Soil", "caption": "Amending and tilling the soil in the new flower fields." },
     { "enabled": true, "src": "5.jpg", "headline": "Tilling the Field", "caption": "Our first attempt at tilling the fields.  Would've been easier with air in both tires." },
@@ -15,5 +15,12 @@
     { "enabled": true, "src": "14.jpg", "headline": "Spring Chicks Have Arrived", "caption": "Nine new chicks came from Meyer Hatchery: 2 Black Split to Lavender Orpington, 2 Cream Legbar, 2 Lavendar Orpington, 2 Swedish Flower Hen, and 1 mystery chicken." },
     { "enabled": true, "src": "15.jpg", "headline": "Photo Shoot #2", "caption": "We couldn't pass up the chance for a photo shoot with some of our own flowers.  They're from the yard, not the fields, but they were grown here." },
     { "enabled": true, "src": "16.jpg", "headline": "Earth Week", "caption": "The Kerchenski family spent earth week getting covered in dirt, and compost.  We moved over 10 yards of compost and spread it over the fields in one long day." },
-    { "enabled": true, "src": "17.jpg", "headline": "Installing T-Posts", "caption": "The Sweet Peas have been hardening off and are nearly ready to be planted in the field.  These 8' t-posts have been added to support Hortonova netting and will eventually be covered in Sweet Pea vines." }
+    { "enabled": true, "src": "17.jpg", "headline": "Installing T-Posts", "caption": "The Sweet Peas have been hardening off and are nearly ready to be planted in the field.  These 8' t-posts have been added to support Hortonova netting and will eventually be covered in Sweet Pea vines." },
+    { "enabled": true, "src": "18.jpg", "headline": "Planting Sweet Peas", "caption": "Finally the first plants are going into the field.  We planted a row and a half on a nasty, muddy, rainy day." },
+    { "enabled": true, "src": "19.jpg", "headline": "Snow Protection", "caption": "Of course it's snowing after we planted.  We went out every night for a couple of days and covered the plants with landscape fabric to keep them safe." },
+    { "enabled": true, "src": "20.jpg", "headline": "New Sign", "caption": "We combined our skills and made a brand new sign with the brand new logo.  Mike built the sign and Jenny painted on the logo." },
+    { "enabled": true, "src": "21.jpg", "headline": "Sleeping Millie", "caption": "I think she likes the warm lights in the seed starting room.  We catch her down here all the time." },
+    { "enabled": true, "src": "22.jpg", "headline": "Jamie's Helping", "caption": "It's a welcomed distraction when our nephew Jamie comes to help water the plants." },
+    { "enabled": true, "src": "23.jpg", "headline": "First Flower", "caption": "Not much is in bloom.  Especially in the new fields.  But we did find this little Zinnia a little earlier than the rest." },
+    { "enabled": true, "src": "24.jpg", "headline": "More Planting", "caption": "Every week we take more and more seedlings out back and plant them in the flowers.  The weather is finally making this a much more pleasant job." }
 ]
