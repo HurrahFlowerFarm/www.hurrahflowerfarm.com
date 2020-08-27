@@ -25,5 +25,10 @@
     { "enabled": true, "src": "24.jpg", "headline": "More Planting", "caption": "Every week we take more and more seedlings out back and plant them in the flowers.  The weather is finally making this a much more pleasant job." },
     { "enabled": true, "src": "25.jpg", "headline": "Sweet Peas", "caption": "Not as many as we were hoping for, but the Sweet Peas sure were worth the wait." },
     { "enabled": true, "src": "26.jpg", "headline": "Mason Jar Mini's", "caption": "We have to work with what we have, but these have been very popular." },
-    { "enabled": true, "src": "27.jpg", "headline": "We're Selling", "caption": "It's been a tough start for us, but we're now selling.  Keep an eye on instagram for details." }
+    { "enabled": true, "src": "27.jpg", "headline": "We're Selling", "caption": "It's been a tough start for us, but we're now selling.  Keep an eye on instagram for details." },
+    { "enabled": true, "src": "28.jpg", "headline": "Bunches of Sunflowers", "caption": "Bunches of beautiful sunflowers from which to choose." },
+    { "enabled": true, "src": "29.jpg", "headline": "Fields of Sunflowers", "caption": "The fields are in full bloom with yellow sunflowers." },
+    { "enabled": true, "src": "30.jpg", "headline": "Beautiful Arrangements", "caption": "Custom orders and wonderful arrangements every week." },
+    { "enabled": true, "src": "31.jpg", "headline": "Gorgeous Sunflowers", "caption": "Fields full of sunflowers in unique colors." },
+    { "enabled": true, "src": "32.jpg", "headline": "Porch Sales", "caption": "Mason jar minis, unique arrangements, and bunches of sunflowers." }
 ]
