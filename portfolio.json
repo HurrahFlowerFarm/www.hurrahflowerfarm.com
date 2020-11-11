@@ -30,5 +30,11 @@
     { "enabled": true, "src": "29.jpg", "headline": "Fields of Sunflowers", "caption": "The fields are in full bloom with yellow sunflowers." },
     { "enabled": true, "src": "30.jpg", "headline": "Beautiful Arrangements", "caption": "Custom orders and wonderful arrangements every week." },
     { "enabled": true, "src": "31.jpg", "headline": "Gorgeous Sunflowers", "caption": "Fields full of sunflowers in unique colors." },
-    { "enabled": true, "src": "32.jpg", "headline": "Porch Sales", "caption": "Mason jar minis, unique arrangements, and bunches of sunflowers." }
+    { "enabled": true, "src": "32.jpg", "headline": "Porch Sales", "caption": "Mason jar minis, unique arrangements, and bunches of sunflowers." },
+    { "enabled": true, "src": "33.jpg", "headline": "Twins", "caption": "Beautiful arrangements in Jenny's basement workshop." },
+    { "enabled": true, "src": "34.jpg", "headline": "Drip Tape Reel", "caption": "Cleaning up the drip tape irregation with a homemade reel." },
+    { "enabled": true, "src": "35.jpg", "headline": "Beauty on the Bench", "caption": "Another beautiful arrangement out back by the bench." },
+    { "enabled": true, "src": "36.jpg", "headline": "Front Yard", "caption": "A nice view of the sign in the front yard." },
+    { "enabled": true, "src": "37.jpg", "headline": "Home Grown Gords", "caption": "The odd thing about this arrangement is that the gords were volunteers in our compost pile." },
+    { "enabled": true, "src": "38.jpg", "headline": "Wrapping It Up", "caption": "One of the final arrangements of the year." }
 ]
